@@ -26,6 +26,6 @@ Can be extended with INSERTs, triggers, views, and procedures
 Great for learning or demonstrating:
 SQL fundamentals
 Relational modeling
-Reporting and healthcare data logic
-Created by: Raj Srivastava
+Reporting and healthcare data logic.
+# Created by: Raj Srivastava
 For academic and portfolio use
