@@ -24,7 +24,6 @@ Sample analytical queries for reporting
 Can be extended with INSERTs, triggers, views, and procedures
 # 📌 Use Cases
 Great for learning or demonstrating:
-
 SQL fundamentals
 Relational modeling
 Reporting and healthcare data logic
